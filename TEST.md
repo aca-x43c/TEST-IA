@@ -1,8 +1,46 @@
-> -- Classification : Interne --
+> <!-- classification.md -->
+> **Classification : Interne - Usage restreint**
 
-> Rédaction : Bruce Willis\
-> Relecture : Tom Cruise\
-> Approbateur : Brad Pitt
+**Document rédigé par** : Jean Dupont (RSSI)  
+**Relu par** : Claire Martin (DPO)  
+**Approuvé par** : Marc Leroy (Directeur Général)  
+**Date** : 27/06/2025  
+**Version** : 1.0
+
+<details>
+<summary>Informations de validation</summary>
+
+<table>
+  <tr>
+    <th>Rôle</th>
+    <th>Nom / Fonction</th>
+    <th>Date</th>
+    <th>Signature</th>
+  </tr>
+  <tr>
+    <td>Rédacteur</td>
+    <td>Jean Dupont – RSSI</td>
+    <td>2025-06-27</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Relecteur</td>
+    <td>Claire Martin – DPO</td>
+    <td>2025-06-28</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>Approbateur</td>
+    <td>Marc Leroy – DG</td>
+    <td>2025-06-29</td>
+    <td></td>
+  </tr>
+</table>
+
+</details>
+
+
+
 
 # Cycle de vie de la documentation
 ## Synoptique
